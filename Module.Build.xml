@@ -4,6 +4,10 @@
     <CoreServicesDlls>
       <string>.\Decisions.Financial\obj\Debug\net5.0\win-x64\Decisions.Financial.dll</string>
     </CoreServicesDlls>
+    <ReferenceDlls>
+			<string>.\Decisions.Financial\obj\ExcelFinancialFunctions.dll</string>
+			<string>.\Decisions.Financial\obj\FSharp.Core.dll</string>
+		</ReferenceDlls>
     <CliDlls/>
     <WebPages/>
 	<SilverlightDlls/>
