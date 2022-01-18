@@ -2,7 +2,7 @@
 <CreateModuleInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Resources NoComponents="true">
     <CoreServicesDlls>
-      <string>.\Decisions.Financial\obj\Debug\net5.0\win-x64\Decisions.Financial.dll</string>
+      <string>.\Decisions.Financial\obj\Debug\net6.0\win-x64\Decisions.Financial.dll</string>
     </CoreServicesDlls>
     <ReferenceDlls>
 			<string>.\Decisions.Financial\obj\ExcelFinancialFunctions.dll</string>
@@ -17,7 +17,7 @@
     <ObjectsToImport/>
     <MsSqlScript/>
   </Resources>
-  <Version/>
+  <Version>7.10</Version>
   <ImagePath>./image.png</ImagePath>
   <Description>This module adds support for Excel financial calculations.</Description>
 </CreateModuleInfo>
