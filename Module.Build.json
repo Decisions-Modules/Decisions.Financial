@@ -1,0 +1,24 @@
+{
+    "Resources": {
+	  "NoComponents": true,
+      "CoreServicesDlls":[
+		"./Decisions.Financial/obj/Decisions.Financial.dll"
+      ],
+      "ReferenceDlls": 
+        [
+          "./Decisions.Financial/obj/ExcelFinancialFunctions.dll",
+          "./Decisions.Financial/obj/FSharp.Core.dll"
+        ],
+      "CliDlls": null,
+      "WebPages": null,
+      "SilverlightDlls": null,
+      "AgentDlls": null,
+      "InstallScript": null,
+      "SqlScripts": null,
+      "ObjectsToImport": null,
+      "MsSqlScript": null
+    },
+    "Version": "8.9.0",
+    "ImagePath": "./image.png",
+    "Description": "This module adds support for Excel financial calculations."
+}
