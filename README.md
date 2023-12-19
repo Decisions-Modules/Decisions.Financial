@@ -1,2 +1,1 @@
-# Decisions.Financial
-A Steps library for Excel Financial Functions
+Decisions Documentation: https://documentation.decisions.com/docs/financial-module
