@@ -19,9 +19,9 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="DecisionsSDK" Version="8.8.0" />
+    <PackageReference Include="ExcelFinancialFunctions" Version="3.2.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="FSharp.NET.Sdk" Version="1.0.5" />
-    <PackageReference Include="ExcelFinancialFunctionsCore" Version="1.0.1" />
   </ItemGroup>
     <ItemGroup>
     <Compile Include="ExcelFunctions.cs" />
