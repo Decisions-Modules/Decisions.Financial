@@ -4,11 +4,7 @@
       "CoreServicesDlls":[
 		"./Decisions.Financial/obj/Decisions.Financial.dll"
       ],
-      "ReferenceDlls": 
-        [
-          "./Decisions.Financial/obj/ExcelFinancialFunctions.dll",
-          "./Decisions.Financial/obj/FSharp.Core.dll"
-        ],
+      "ReferenceDlls": null,
       "CliDlls": null,
       "WebPages": null,
       "SilverlightDlls": null,
